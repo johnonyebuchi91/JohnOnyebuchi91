@@ -1,5 +1,14 @@
-👋 Hi there! I'm John Onyebuchi
-I'm a Data Analyst skilled in SQL, Excel, and Power BI, with a background in Human Physiology. I specialize in cleaning datasets, writing SQL queries, and creating interactive dashboards to support data-driven decision-making. My focus areas include Healthcare, Business, and Finance analytics. I’m open to collaborations on data analytics projects and open-source initiatives. Feel free to reach out via email at johnonyebuchi91@gmail.com
+# 👋 Hi there! I'm John Onyebuchi  
+
+I'm a **Data Analyst** skilled in **SQL, Excel, and Power BI**, with a background in **Human Physiology**. I specialize in **cleaning datasets, writing SQL queries, and creating interactive dashboards** to support data-driven decision-making. My focus areas include **Healthcare, Business, and Finance analytics**. I’m open to collaborations on **data analytics projects and open-source initiatives**.  
+
+### 🛠️ Tools & Technologies  
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)  
+
+📫 **Reach me at:** [johnonyebuchi91@gmail.com](mailto:johnonyebuchi91@gmail.com)
+
 
 <!--
 **johnonyebuchi91/JohnOnyebuchi91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
