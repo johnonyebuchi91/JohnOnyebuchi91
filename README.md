@@ -1,4 +1,5 @@
-## Hi there 👋
+👋 Hi there! I'm John Onyebuchi
+I'm a Data Analyst skilled in SQL, Excel, and Power BI, with a background in Human Physiology. I specialize in cleaning datasets, writing SQL queries, and creating interactive dashboards to support data-driven decision-making. My focus areas include Healthcare, Business, and Finance analytics. I’m open to collaborations on data analytics projects and open-source initiatives. Feel free to reach out via email at johnonyebuchi91@gmail.com
 
 <!--
 **johnonyebuchi91/JohnOnyebuchi91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
